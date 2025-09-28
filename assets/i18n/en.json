@@ -1,0 +1,12 @@
+{
+  "APP": { "TITLE": "My Portfolio", "SUB": "GitHub repositories" },
+  "LANG": { "LABEL": "Language" },
+  "REPOS": {
+    "TITLE": "Projects",
+    "FILTER_USER": "GitHub user",
+    "FILTER_TOPIC": "Filter by topic (optional)",
+    "LOAD": "Load",
+    "EMPTY": "No repositories found.",
+    "STARS": "stars"
+  }
+}

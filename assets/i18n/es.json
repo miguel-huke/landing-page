@@ -1,0 +1,12 @@
+{
+  "APP": { "TITLE": "Mi Portafolio", "SUB": "Repos de GitHub" },
+  "LANG": { "LABEL": "Idioma" },
+  "REPOS": {
+    "TITLE": "Proyectos",
+    "FILTER_USER": "Usuario de GitHub",
+    "FILTER_TOPIC": "Filtrar por tema (opcional)",
+    "LOAD": "Cargar",
+    "EMPTY": "No se encontraron repositorios.",
+    "STARS": "estrellas"
+  }
+}
